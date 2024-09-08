@@ -32,7 +32,7 @@ const CounterComponent = () => {
 
   return (
     <>
-      <div className="bg-white shadow rounded py-5 w-75 col-6 offset-3">
+      <div className="bg-white shadow rounded py-5 w-75  m-auto">
         <h3>Counter Component</h3>
         <h2>{contatore}</h2>
 
