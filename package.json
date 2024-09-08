@@ -1,5 +1,7 @@
 {
   "name": "react-timer",
+  "homepage": "https://tomerpacific.github.io/react-timer/", 
+  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
